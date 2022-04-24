@@ -1,2 +1,2 @@
 # googleclone
-cloned google's wite
+cloned google's site
